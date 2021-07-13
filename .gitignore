@@ -21,3 +21,16 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+/.idea/.gitignore
+/OnlineBookStore/gradle/wrapper/gradle-wrapper.jar
+/OnlineBookStore/gradle/wrapper/gradle-wrapper.jar
+/.idea/vcs.xml
+/.idea/sale-books-online.iml
+/.idea/modules.xml
+/.idea/misc.xml
+/OnlineBookStore/gradlew.bat
+/OnlineBookStore/gradlew
+/OnlineBookStore/gradle/wrapper/gradle-wrapper.jar
+/OnlineBookStore/gradle/wrapper/gradle-wrapper.jar
+/OnlineBookStore/gradle/wrapper/gradle-wrapper.jar
+/OnlineBookStore/gradle/wrapper/gradle-wrapper.jar
