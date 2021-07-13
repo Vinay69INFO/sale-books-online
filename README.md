@@ -1,1 +1,1 @@
-<h3 style="color:blue;"> Creating Online book shopping commercial website to sell books online. Using Angular 10 to develop frontend and Spring boot REST full web services to handle backend operation.</h3>
+<b style="color:blue;"> Creating Online book shopping commercial website to sell books online. Using Angular 10 to develop frontend and Spring boot REST full web services to handle backend operation.</b>
